@@ -5,3 +5,4 @@
 ![Screenshot_2024-06-14-09-19-59-680_com example dct](https://github.com/divesh2001/DCT-Assignment/assets/110032653/1224f619-7f6e-46e3-937e-96cdb1c0b273)
 ![Screenshot_2024-06-14-09-20-02-616_com example dct](https://github.com/divesh2001/DCT-Assignment/assets/110032653/3a40b8bd-6379-45b9-979d-6f9687776da9)
 ![Screenshot_2024-06-14-09-20-32-323_com example dct](https://github.com/divesh2001/DCT-Assignment/assets/110032653/53584358-a117-4a30-880f-4d33bdc1cf70)
+![Screenshot_2024-06-14-09-20-22-785_com example dct](https://github.com/divesh2001/DCT-Assignment/assets/110032653/64b8b46b-3f21-46c7-94bb-092c87cf3131)
