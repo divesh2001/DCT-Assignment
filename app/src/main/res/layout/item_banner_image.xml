@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    android:id="@+id/relSelectBannerImage"
+    android:layout_width="match_parent"
+    android:layout_height="200dp"
+    android:layout_margin="8dp"
+    android:background="@drawable/background_banner"
+    android:elevation="6dp">
+
+    <com.google.android.material.imageview.ShapeableImageView
+        android:id="@+id/ivBackgroundImage"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:layout_centerInParent="true"
+        android:scaleType="fitXY"
+        android:src="@drawable/dummy_movie_01"
+        app:shapeAppearanceOverlay="@style/BaseRoundImage12" />
+
+    <View
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:background="@drawable/shape_12"
+        android:backgroundTint="#50000000" />
+
+    <com.google.android.material.imageview.ShapeableImageView
+        android:id="@+id/ivForegroundImage"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:layout_centerInParent="true"
+        android:layout_margin="20dp"
+        android:scaleType="fitXY"
+        android:src="@drawable/dummy_movie_01"
+        app:shapeAppearanceOverlay="@style/BaseRoundImage12" />
+
+
+</RelativeLayout>
